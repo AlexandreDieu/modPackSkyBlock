@@ -1,0 +1,6 @@
+{
+	"parent": "item/phq/cannon",
+	"textures": {
+		"1": "./snow_blaster"
+	}
+}
